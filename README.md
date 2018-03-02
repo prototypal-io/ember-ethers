@@ -1,7 +1,7 @@
 ember-ethers
 ==============================================================================
 
-[Short description of the addon.]
+A shim around [Ethers.js](https://github.com/ethers-io/ethers.js) for Ember users.
 
 Installation
 ------------------------------------------------------------------------------
@@ -14,7 +14,7 @@ ember install ember-ethers
 Usage
 ------------------------------------------------------------------------------
 
-[Longer description of how to use the addon in apps.]
+`import Ethers from 'ethers';`
 
 
 Contributing
